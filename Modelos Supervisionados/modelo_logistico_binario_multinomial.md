@@ -1,0 +1,1 @@
+# Modelo Logístico Binário e Multinomial
