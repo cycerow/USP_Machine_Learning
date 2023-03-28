@@ -8,7 +8,7 @@
 
 * Modelos Supervisionados<br><p>
     * Análise de Regressão Simples e Múltipla
-    * <a href="Modelos Supervisionados\Modelo_Logístico _Binário_Multinomial.r">Modelos Logísticos Binários e Multinomiais</a>      
+    * <a href="Modelos Supervisionados\Regressão_Logística_Binária_e_Multinomial.r">Regressão Logística Binária e Multinomial</a>      
     * Modelos para Dados de Contagem
     * Modelagem Multinível
     * Séries Temporais
