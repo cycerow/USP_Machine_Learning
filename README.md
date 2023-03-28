@@ -8,7 +8,7 @@
 
 * Modelos Supervisionados<br><p>
     * Análise de Regressão Simples e Múltipla
-    * <a href="C:\Users\jsci\OneDrive\Documentos\NewPythonCode\USP_DataScience_Anlaytics\Modelos Supervisionados\modelo_logistico_binario_multinomaial.md">Modelos Logísticos Binários e Multinomiais</a>      
+    * <a href="Modelos Supervisionados\Modelo_Logístico _Binário_Multinomial.r">Modelos Logísticos Binários e Multinomiais</a>      
     * Modelos para Dados de Contagem
     * Modelagem Multinível
     * Séries Temporais
