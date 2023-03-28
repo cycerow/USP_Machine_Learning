@@ -8,7 +8,7 @@
 
 * Modelos Supervisionados<br><p>
     * Análise de Regressão Simples e Múltipla
-    * Regressão Logística Binária e Multinomial | <a href="Modelos Supervisionados\Regressão_Logística_Binária_e_Multinomial.r">Linguagem R</a> |     
+    * Regressão Logística Binária e Multinomial | <a href="Modelos Supervisionados\Regressão_Logística_Binária_e_Multinomial.r">Linguagem R</a> | Python |
     * Modelos para Dados de Contagem
     * Modelagem Multinível
     * Séries Temporais
